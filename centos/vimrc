@@ -1,0 +1,21 @@
+set number
+set paste
+set noswapfile
+set nobackup
+set ignorecase
+set hlsearch
+set cindent
+set autoindent
+set smartindent
+set fileencodings=utf-8,euc-kr
+set bs=indent,eol,start
+set history=1000
+set ruler
+set title
+set showmatch
+set wmnu
+set tabstop=4
+set shiftwidth=4
+syntax on
+colorscheme ron
+
